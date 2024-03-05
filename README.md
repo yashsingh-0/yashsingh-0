@@ -2,14 +2,12 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF5NG43YnF1bzgyanh1dzJkZnZ2c2o5emR6ZTdwNDdlZGYwMmVrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IOwzBZrp0VIpdXkYDc/giphy.gif"  />
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF5NG43YnF1bzgyanh1dzJkZnZ2c2o5emR6ZTdwNDdlZGYwMmVrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IOwzBZrp0VIpdXkYDc/giphy.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yashsingh-0&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=yashsingh-0&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashsingh-0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&custom_title=Weapons" height="250" alt="languages graph"  />
 </div>
 
